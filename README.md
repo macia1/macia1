@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=macia1" width = 460>
